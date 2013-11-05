@@ -1,5 +1,40 @@
 {
-  "name": "hexo-tag-article",
+  "name": "hexo-",
   "version": "0.0.1",
   "main": "index"
+}
+{
+  "name": "hexo-tag-article",
+  "version": "0.0.1",
+  "description": "A simple article plugin for hexo",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akbsteam/hexo-tag-article.git"
+  },
+  "keywords": [
+    "website",
+    "blog",
+    "cms",
+    "framework",
+    "hexo"
+  ],
+  "author": {
+    "name": "Andy Bennett",
+    "email": "andu@steamshift.net"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/akbsteam/hexo-tag-article/blob/master/LICENSE"
+  },
+  "engines": {
+    "hexo": ">= 1.0.0"
+  },
+  "readme": "hexo-tag-article\n=================================\n\nA simple article plugin for hexo",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/akbsteam/hexo-tag-article/issues"
+  },
+  "_id": "hexo-tag-article@0.0.1",
+  "_from": "hexo-tag-article@"
 }
