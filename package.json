@@ -1,9 +1,4 @@
 {
-  "name": "hexo-",
-  "version": "0.0.1",
-  "main": "index"
-}
-{
   "name": "hexo-tag-article",
   "version": "0.0.1",
   "description": "A simple article plugin for hexo",
